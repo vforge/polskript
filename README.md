@@ -1,0 +1,4 @@
+polskript
+=========
+
+Polskript kurwa!
